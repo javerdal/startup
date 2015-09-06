@@ -1,0 +1,2 @@
+# startup
+Starting git man
